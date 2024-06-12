@@ -20,6 +20,7 @@ The Text-Summarizer-Website is a web application designed to produce concise sum
 - JavaScript: A programming language that enables interactive web pages.
 
 ## Usage
+- Open the terminal and type "node index.js".
 - Open your web browser and navigate to http://localhost:3000.
 - Enter the text you wish to summarize in the input field.
 - Click the "Summarize" button to generate the summary.
